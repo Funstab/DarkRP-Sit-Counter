@@ -22,8 +22,5 @@ DarkRP Sit Counter is a simple and user-friendly application designed for DarkRP
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any questions or feedback, please reach out to me on [GitHub](https://github.com/Funstab).
